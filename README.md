@@ -1,0 +1,1 @@
+"# redimensionar-e-cortar-imagem" 
